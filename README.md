@@ -1,4 +1,4 @@
-# cooking-timer
+# Cooking-timer
 Multi-Cooking Timer Application
 Python
 Tkinter
