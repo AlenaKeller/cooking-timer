@@ -28,4 +28,4 @@ Current time remaining
 Running status
 Alert flash counter
 
-![Cooking-timer visual](https://github.com/AlenaKeller/cooking-timer/raw/main/Cooking-timervisual.jpg)
+![Cooking-timer visual](https://github.com/AlenaKeller/cooking-timer/raw/dev/Cooking-timervisual.JPG)
