@@ -15,7 +15,6 @@ Features
 🍇 Responsive layout - Adapts to window resizing
 
 How It Works
-
 The application creates a 2×2 grid of timer panels, each containing:
 
 Timer label showing the timer number
