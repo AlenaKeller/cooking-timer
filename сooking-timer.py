@@ -124,7 +124,7 @@ class TimerApp:
     def reset_timer(self, timer_data):
         timer_data["running"] = False
         timer_data["alert_btn"].pack_forget()
-        self.set_time(timer_data, 300)  # Reset to 5 minutes
+        self.set_time(timer_data, 300)  
  
     def parse_time(self, time_str):
         h, m, s = map(int, time_str.split(":"))
@@ -144,7 +144,7 @@ class TimerApp:
         current_color = timer_data["alert_btn"].cget("bg")
         new_color = "#e0f7fa" if current_color == "#a5d6a7" else "#a5d6a7"
         timer_data["alert_btn"].config(bg=new_color)
-        if timer_data["flash_count"] < 10:  # Flash 10 times
+        if timer_data["flash_count"] < 10:  
             timer_data["flash_count"] += 1
             self.root.after(500, lambda: self.flash_alert(timer_data))
         else:
