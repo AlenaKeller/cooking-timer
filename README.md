@@ -3,6 +3,8 @@ Multi-Cooking Timer Application
 Python
 Tkinter
 
+Timer for tracking cooking time on a 4-burner stove. This application allows you to mark the right time for cooking at the same time as working on the computer, in one window for all 4 burners.
+
 A Python GUI application featuring four independent countdown timers in a 2x2 grid layout, built with Tkinter.
 
 Features
