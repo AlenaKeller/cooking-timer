@@ -14,15 +14,15 @@ Features
 🥥 Modern UI - Clean, color-coded interface with flat design
 🍇 Responsive layout - Adapts to window resizing
 
-How It Works
+# How It Works
 The application creates a 2×2 grid of timer panels, each containing:
 
-Timer label showing the timer number
-Quick-start buttons for common durations
-Time entry field for custom durations
-Control buttons (Start/Reset)
-Alert display that appears when timer completes
-Each timer maintains its own state including:
+# Timer label showing the timer number
+# Quick-start buttons for common durations
+# Time entry field for custom durations
+# Control buttons (Start/Reset)
+# Alert display that appears when timer completes
+# Each timer maintains its own state including:
 
 Current time remaining
 Running status
